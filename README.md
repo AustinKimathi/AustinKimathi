@@ -103,8 +103,8 @@ A Java & MySQL desktop application for scheduling, registrations, and payment ma
 
 ## Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: austin.kimathi@strathmore.edu
+- 💼 LinkedIn: www.linkedin.com/in/austin-kimathi-01109a311
+- 📧 Email: austinkimathi30@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
