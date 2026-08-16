@@ -1,0 +1,4 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" role="img" aria-label="Stats placeholder">
+  <rect width="100%" height="100%" fill="#0f0c29"/>
+  <text x="24" y="100" fill="#67e8f9" font-family="Segoe UI, Arial" font-size="18">Stats card generates on Actions run</text>
+</svg>
